@@ -1,6 +1,6 @@
 #!/bin/sh
 
-tee /var/www/html/1.html << _EOF_
+tee /var/www/html/index.html << _EOF_
 <html>
 <head>
     <title>
